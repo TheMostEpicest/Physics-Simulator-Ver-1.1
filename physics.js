@@ -32,7 +32,7 @@ class arrow {
 var object1 = {
     name: "object1",
     element: document.getElementById("object1"),
-    positionX: 1700,
+    positionX: 170,
     positionY: 190,
     velocityX: 0,
     velocityY: 0,
@@ -77,7 +77,7 @@ var arrow2 = {
 var object3 = {
     name: "object3",
     element: document.getElementById("object3"),
-    positionX: 1700,
+    positionX: 1000,
     positionY: 590,
     velocityX: 0,
     velocityY: 0,
@@ -98,7 +98,7 @@ var arrow3 = {
 var object4 = {
     name: "object4",
     element: document.getElementById("object4"),
-    positionX: 1700,
+    positionX: 800,
     positionY: 790,
     velocityX: 0,
     velocityY: 0,
